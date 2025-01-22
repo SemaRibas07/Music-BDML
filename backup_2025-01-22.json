@@ -1,0 +1,286 @@
+{
+  "musicas": [
+    {
+      "title": "1000 Graus",
+      "artist": "Renascer Praise",
+      "url": "https://www.youtube.com/watch?v=QTC7_DVENZA",
+      "image": "https://i.ytimg.com/vi/nPRUuvNPdkI/hqdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/renascer-praise/1000-graus-renascer-praise-18/",
+      "chordsUrl": "https://www.cifraclub.com.br/renascer-praise/1000-graus/",
+      "categories": [
+        "Dinamica"
+      ],
+      "keywords": "#Fogo, #Paixao, #Adorar",
+      "id": 1736823909174
+    },
+    {
+      "title": "A Alegria Esta no Coracao",
+      "artist": "Corinhos Evangelicos",
+      "url": "https://www.youtube.com/watch?v=5drSCKZQjX4",
+      "image": "https://i.ytimg.com/vi/5drSCKZQjX4/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/corinhos-evangelicos/1261985/",
+      "chordsUrl": "https://www.cifraclub.com.br/corinhos-evangelicos/a-alegria-esta-no-coracao/",
+      "categories": [
+        "Dinamica",
+        "Louvor e Adoracao"
+      ],
+      "keywords": "#Alegria, #Coracao, #Jesus",
+      "id": 1736824222215
+    },
+    {
+      "title": "A Bencao",
+      "artist": "Gabriel Guedes (Part. Nivea Soares)",
+      "url": "https://www.youtube.com/watch?v=v8gaG2ed01I",
+      "image": "https://i.ytimg.com/vi/v8gaG2ed01I/sddefault.jpg?v=5ecd5761",
+      "lyricsUrl": "https://www.letras.mus.br/gabriel-guedes/a-bencao-part-nivea-soares/",
+      "chordsUrl": "https://www.cifraclub.com.br/gabriel-guedes/a-bencao/",
+      "categories": [
+        "Louvor e Adoracao"
+      ],
+      "keywords": "#Bencao, #Deus, #Vida",
+      "id": 1736824427658
+    },
+    {
+      "title": "A Biblia E",
+      "artist": "Ministerio Jovem",
+      "url": "https://www.youtube.com/watch?v=Bb512GVcMXc",
+      "image": "https://i.ytimg.com/vi/Bb512GVcMXc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB5nPBIT6t6H1bB3O-90TpBc8GEhg",
+      "lyricsUrl": "https://www.letras.mus.br/ministerio-jovem/a-biblia-e/",
+      "chordsUrl": "https://www.cifraclub.com.br/ministerio-jovem/a-biblia-/",
+      "categories": [
+        "Outras",
+        "Louvor e Adoracao"
+      ],
+      "keywords": "#Biblia, #Verdade, #Palavra",
+      "id": 1736824735210
+    },
+    {
+      "title": "A Boa Parte",
+      "artist": "Fhop Music (Part. Nivea Soares)",
+      "url": "https://www.youtube.com/watch?v=dlGOiuxSzVw",
+      "image": "https://i.ytimg.com/vi/dlGOiuxSzVw/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/florianopolis-house-of-prayer/a-boa-parte/",
+      "chordsUrl": "https://www.cifraclub.com.br/florianopolis-house-of-prayer/a-boa-parte/#google_vignette",
+      "categories": [
+        "Dizimos e Ofertas",
+        "Louvor e Adoracao"
+      ],
+      "keywords": "#Entrega, #Jesus, #Escolha",
+      "id": 1736825673991
+    },
+    {
+      "title": "A Ele a Gloria - Versao Gabriela Rocha",
+      "artist": "Gabriela Rocha",
+      "url": "https://www.youtube.com/watch?v=9p3qBC3VotM",
+      "image": "https://i.ytimg.com/vi/9p3qBC3VotM/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/gabriela-rocha/a-ele-a-gloria/",
+      "chordsUrl": "https://www.cifraclub.com.br/gabriela-rocha/a-ele-a-gloria/",
+      "categories": [
+        "Louvor e Adoracao",
+        "Outras"
+      ],
+      "keywords": "#Gloria, #Adorar, #Rei",
+      "id": 1736825941235
+    },
+    {
+      "title": "Abra Os Olhos do Meu Coracao",
+      "artist": "David Quinlan",
+      "url": "https://www.youtube.com/watch?v=0UWvytsDEng",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfTkL6T9qPA6HhoWJ3y6YNLjsDlWhJ1BkXtg&s",
+      "lyricsUrl": "https://www.letras.mus.br/david-quinlan/129970/",
+      "chordsUrl": "https://www.cifraclub.com.br/david-quinlan/abra-os-olhos-do-meu-coracao/",
+      "categories": [
+        "Louvor e Adoracao"
+      ],
+      "keywords": "#Intimidade, #Coracao, #Exaltacao",
+      "id": 1736826127402
+    },
+    {
+      "title": "Abraca-me",
+      "artist": "Andre Valadao",
+      "url": "https://www.youtube.com/watch?v=6PWUbDhHfqs",
+      "image": "https://i.ytimg.com/vi/_QRgmJ4X-Hw/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/andre-valadao/1413147/",
+      "chordsUrl": "https://www.cifraclub.com.br/andre-valadao/abraca-me/",
+      "categories": [
+        "Louvor e Adoracao"
+      ],
+      "keywords": "#Intimidade, #Amor, #Devocao",
+      "id": 1736826521219
+    },
+    {
+      "title": "Abraca-me (Quero ser como crianca)",
+      "artist": "David Quinlan (Part. Jullyany Souza)",
+      "url": "https://www.youtube.com/watch?v=bQc0qZZlwZ8",
+      "image": "https://i.ytimg.com/vi/com5UB-SWYY/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/david-quinlan/119503/",
+      "chordsUrl": "https://www.cifraclub.com.br/david-quinlan/abraca-me/",
+      "categories": [
+        "Louvor e Adoracao"
+      ],
+      "keywords": "#Dependencia, #Protecao, #Inocencia",
+      "id": 1736856992176
+    },
+    {
+      "title": "Abro Mao - Versao Trazendo a Arca",
+      "artist": "Trazendo a Arca",
+      "url": "https://www.youtube.com/watch?v=f6TWgvNa2fg",
+      "image": "https://i.ytimg.com/vi/f6TWgvNa2fg/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/trazendo-arca/1107719/",
+      "chordsUrl": "https://www.cifraclub.com.br/trazendo-arca/abro-mao/",
+      "categories": [
+        "Louvor e Adoracao",
+        "Dizimos e Ofertas"
+      ],
+      "keywords": "#Sacrificio, #Renuncia, #Entrega",
+      "id": 1736857628483
+    },
+    {
+      "title": "Aclame ao Senhor",
+      "artist": "Diante do Trono",
+      "url": "https://www.youtube.com/watch?v=U4l40DvaeGw",
+      "image": "https://i.ytimg.com/vi/eXYe0dakxLY/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/diante-do-trono/45465/",
+      "chordsUrl": "https://www.cifraclub.com.br/diante-do-trono/aclame-ao-senhor/",
+      "categories": [
+        "Louvor e Adoracao"
+      ],
+      "keywords": "#Majestade, #Poder, #Louvor",
+      "id": 1736873356406
+    },
+    {
+      "title": "Adorador Por Excelencia",
+      "artist": "Nani Azevedo",
+      "url": "https://www.youtube.com/watch?v=JV2LHHD3cGw",
+      "image": "https://i.ytimg.com/vi/m8pHtUzvw3U/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/nani-azevedo/1273032/",
+      "chordsUrl": "https://www.cifraclub.com.br/nani-azevedo/adorador-por-exelencia/",
+      "categories": [
+        "Louvor e Adoracao"
+      ],
+      "keywords": "#Adoracao, #Sacrificio, #Excelencia",
+      "id": 1736874533299
+    },
+    {
+      "title": "Ainda que a figueira",
+      "artist": "Fernandinho",
+      "url": "https://www.youtube.com/watch?v=hFwNSQVi0q0",
+      "image": "https://i.ytimg.com/vi/1DzK7Wm3IcE/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/fernandinho/1496848/",
+      "chordsUrl": "https://www.cifraclub.com.br/fernandinho/ainda-que-figueira-/",
+      "categories": [
+        "Louvor e Adoracao"
+      ],
+      "keywords": "#Alegria, #Confianca, #Adversidade",
+      "id": 1736963246304
+    },
+    {
+      "title": "Alfa e omega",
+      "artist": "Marine Friesen",
+      "url": "https://www.youtube.com/watch?v=hCVRYamLhHk",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0hH0DQni7ynnqfFuFZWqo7D4IZ4jb5qvJWg&s",
+      "lyricsUrl": "https://www.letras.mus.br/marine-friesen/alfa-e-omega/",
+      "chordsUrl": "https://www.cifraclub.com.br/marine-friesen/alfa-e-omega/",
+      "categories": [
+        "Louvor e Adoracao"
+      ],
+      "keywords": "#Criador, #Exaltacao, #Dependencia",
+      "id": 1736964132787
+    },
+    {
+      "title": "Alto Preco",
+      "artist": "Asaph Borba",
+      "url": "https://www.youtube.com/watch?v=4MFsMX0Hf-g",
+      "image": "https://i.ytimg.com/vi/4MFsMX0Hf-g/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/asaph-borba/44287/",
+      "chordsUrl": "https://www.cifraclub.com.br/asaph-borba/alto-preco/",
+      "categories": [
+        "Dizimos e Ofertas",
+        "Louvor e Adoracao"
+      ],
+      "keywords": "#Scrificio, #Amor, #Comunhao",
+      "id": 1737116861114
+    },
+    {
+      "title": "Aguas Purificadoras",
+      "artist": "Diante do Trono",
+      "url": "https://www.youtube.com/watch?v=7iMjMUUiG2I",
+      "image": "https://i.ytimg.com/vi/7iMjMUUiG2I/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/diante-do-trono/80790/",
+      "chordsUrl": "https://www.cifraclub.com.br/diante-do-trono/aguas-purificadoras/",
+      "categories": [
+        "Louvor e Adoracao"
+      ],
+      "keywords": "#Purificacao, #Transformacao, #Cura",
+      "id": 1737117179533
+    },
+    {
+      "title": "Te Louvarei (Perto Quero Estar)",
+      "artist": "Toque no Altar",
+      "url": "https://www.youtube.com/watch?v=s6871xx3LBk",
+      "image": "https://i.ytimg.com/vi/PvysT9l7qhU/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/toque-no-altar/1300535/",
+      "chordsUrl": "https://www.cifraclub.com.br/toque-no-altar/te-louvarei-perto-quero-estar/",
+      "categories": [
+        "Louvor e Adoracao"
+      ],
+      "keywords": "#Louvor, #Adoracao, #Exclusividade",
+      "id": 1737117543429
+    },
+    {
+      "title": "Sonda-me, Usa-me",
+      "artist": "Aline Barros",
+      "url": "https://www.youtube.com/watch?v=1McZiORjlzg",
+      "image": "https://i.ytimg.com/vi/1McZiORjlzg/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/aline-barros/1131959/",
+      "chordsUrl": "https://www.cifraclub.com.br/aline-barros/sonda-me-usa-me/",
+      "categories": [
+        "Louvor e Adoracao",
+        "Dizimos e Ofertas"
+      ],
+      "keywords": "#Entrega, #Transformacao, #Declaracao",
+      "id": 1737117875874
+    },
+    {
+      "title": "Amigo de Deus",
+      "artist": "Adhemar de Campos",
+      "url": "https://www.youtube.com/watch?v=xFZmCEVTJQ8",
+      "image": "https://i.ytimg.com/vi/tLO8Sqkccj4/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/adhemar-de-campos/205375/",
+      "chordsUrl": "https://www.cifraclub.com.br/adhemar-de-campos/amigo-de-deus/",
+      "categories": [
+        "Louvor e Adoracao",
+        "Dinamica"
+      ],
+      "keywords": "#Comunhao, #Intimidade, #Adoracao",
+      "id": 1737118086090
+    },
+    {
+      "title": "Rendido Estou",
+      "artist": "Fernandinho (Part. Aline Barros)",
+      "url": "https://www.youtube.com/watch?v=AlsUsI8eWmw",
+      "image": "https://i.ytimg.com/vi/xBvTB0MhAD0/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/fernandinho/1846030/#album:rendido-estou-part-aline-barros-e-bruna-karla-2015",
+      "chordsUrl": "https://www.cifraclub.com.br/fernandinho/rendido-estou/",
+      "categories": [
+        "Louvor e Adoracao"
+      ],
+      "keywords": "#Entrega, #Renuncia, #Intimidade",
+      "id": 1737118407678
+    },
+    {
+      "title": "Cancao do Apocalipse",
+      "artist": "Diante do Trono",
+      "url": "https://www.youtube.com/watch?v=5-UHfUMarQk",
+      "image": "https://i.ytimg.com/vi/5j0arvaKdqk/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/diante-do-trono/1708842/",
+      "chordsUrl": "https://www.cifraclub.com.br/diante-do-trono/cancao-do-apocalipse/",
+      "categories": [
+        "Louvor e Adoracao"
+      ],
+      "keywords": "#Santidade, #Apocalipse, #Exaltacao",
+      "id": 1737118819515
+    }
+  ],
+  "dataBackup": "2025-01-22T12:15:59.454Z"
+}
