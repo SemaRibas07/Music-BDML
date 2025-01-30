@@ -1,0 +1,636 @@
+{
+  "songs": [
+    {
+      "title": "1000 Graus",
+      "artist": "Renascer Praise",
+      "url": "https://www.youtube.com/watch?v=QTC7_DVENZA",
+      "image": "https://i.ytimg.com/vi/nPRUuvNPdkI/hqdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/renascer-praise/1000-graus-renascer-praise-18/",
+      "chordsUrl": "https://www.cifraclub.com.br/renascer-praise/1000-graus/",
+      "categories": [
+        "Dinâmica"
+      ],
+      "keywords": "#Fogo, #Paixão, #Adorar",
+      "id": 1736823909174
+    },
+    {
+      "title": "A Alegria Está no Coração",
+      "artist": "Corinhos Evangélicos",
+      "url": "https://www.youtube.com/watch?v=5drSCKZQjX4",
+      "image": "https://i.ytimg.com/vi/5drSCKZQjX4/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/corinhos-evangelicos/1261985/",
+      "chordsUrl": "https://www.cifraclub.com.br/corinhos-evangelicos/a-alegria-esta-no-coracao/",
+      "categories": [
+        "Dinâmica",
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Alegria, #Coração, #Jesus",
+      "id": 1736824222215
+    },
+    {
+      "title": "A Bênção",
+      "artist": "Gabriel Guedes (Part. Nívea Soares)",
+      "url": "https://www.youtube.com/watch?v=v8gaG2ed01I",
+      "image": "https://i.ytimg.com/vi/v8gaG2ed01I/sddefault.jpg?v=5ecd5761",
+      "lyricsUrl": "https://www.letras.mus.br/gabriel-guedes/a-bencao-part-nivea-soares/",
+      "chordsUrl": "https://www.cifraclub.com.br/gabriel-guedes/a-bencao/",
+      "categories": [
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Benção, #Deus, #Vida",
+      "id": 1736824427658
+    },
+    {
+      "title": "A Bíblia É",
+      "artist": "Ministério Jovem",
+      "url": "https://www.youtube.com/watch?v=Bb512GVcMXc",
+      "image": "https://i.ytimg.com/vi/Bb512GVcMXc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB5nPBIT6t6H1bB3O-90TpBc8GEhg",
+      "lyricsUrl": "https://www.letras.mus.br/ministerio-jovem/a-biblia-e/",
+      "chordsUrl": "https://www.cifraclub.com.br/ministerio-jovem/a-biblia-/",
+      "categories": [
+        "Outras",
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Bíblia, #Verdade, #Palavra",
+      "id": 1736824735210
+    },
+    {
+      "title": "A Boa Parte",
+      "artist": "Fhop Music (Part. Nívea Soares)",
+      "url": "https://www.youtube.com/watch?v=dlGOiuxSzVw",
+      "image": "https://i.ytimg.com/vi/dlGOiuxSzVw/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/florianopolis-house-of-prayer/a-boa-parte/",
+      "chordsUrl": "https://www.cifraclub.com.br/florianopolis-house-of-prayer/a-boa-parte/#google_vignette",
+      "categories": [
+        "Dízimos e Ofertas",
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Entrega, #Jesus, #Escolha",
+      "id": 1736825673991
+    },
+    {
+      "title": "A Ele a Glória - Versão Gabriela Rocha",
+      "artist": "Gabriela Rocha",
+      "url": "https://www.youtube.com/watch?v=9p3qBC3VotM",
+      "image": "https://i.ytimg.com/vi/9p3qBC3VotM/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/gabriela-rocha/a-ele-a-gloria/",
+      "chordsUrl": "https://www.cifraclub.com.br/gabriela-rocha/a-ele-a-gloria/",
+      "categories": [
+        "Louvor e Adoração",
+        "Outras"
+      ],
+      "keywords": "#Glória, #Adorar, #Rei",
+      "id": 1736825941235
+    },
+    {
+      "title": "Abra Os Olhos do Meu Coração",
+      "artist": "David Quinlan",
+      "url": "https://www.youtube.com/watch?v=0UWvytsDEng",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfTkL6T9qPA6HhoWJ3y6YNLjsDlWhJ1BkXtg&s",
+      "lyricsUrl": "https://www.letras.mus.br/david-quinlan/129970/",
+      "chordsUrl": "https://www.cifraclub.com.br/david-quinlan/abra-os-olhos-do-meu-coracao/",
+      "categories": [
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Intimidade, #Coração, #Exaltação",
+      "id": 1736826127402
+    },
+    {
+      "title": "Abraça-me",
+      "artist": "André Valadão",
+      "url": "https://www.youtube.com/watch?v=6PWUbDhHfqs",
+      "image": "https://i.ytimg.com/vi/_QRgmJ4X-Hw/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/andre-valadao/1413147/",
+      "chordsUrl": "https://www.cifraclub.com.br/andre-valadao/abraca-me/",
+      "categories": [
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Intimidade, #Amor, #Devoção",
+      "id": 1736826521219
+    },
+    {
+      "title": "Abraça-me (Quero ser como criança)",
+      "artist": "David Quinlan (Part. Jullyany Souza)",
+      "url": "https://www.youtube.com/watch?v=bQc0qZZlwZ8",
+      "image": "https://i.ytimg.com/vi/com5UB-SWYY/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/david-quinlan/119503/",
+      "chordsUrl": "https://www.cifraclub.com.br/david-quinlan/abraca-me/",
+      "categories": [
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Dependência, #Proteção, #Inocência",
+      "id": 1736856992176
+    },
+    {
+      "title": "Abro Mão - Versão Trazendo a Arca",
+      "artist": "Trazendo a Arca",
+      "url": "https://www.youtube.com/watch?v=f6TWgvNa2fg",
+      "image": "https://i.ytimg.com/vi/f6TWgvNa2fg/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/trazendo-arca/1107719/",
+      "chordsUrl": "https://www.cifraclub.com.br/trazendo-arca/abro-mao/",
+      "categories": [
+        "Louvor e Adoração",
+        "Dízimos e Ofertas"
+      ],
+      "keywords": "#Sacrifício, #Renúncia, #Entrega",
+      "id": 1736857628483
+    },
+    {
+      "title": "Aclame ao Senhor",
+      "artist": "Diante do Trono",
+      "url": "https://www.youtube.com/watch?v=U4l40DvaeGw",
+      "image": "https://i.ytimg.com/vi/eXYe0dakxLY/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/diante-do-trono/45465/",
+      "chordsUrl": "https://www.cifraclub.com.br/diante-do-trono/aclame-ao-senhor/",
+      "categories": [
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Majestade, #Poder, #Louvor",
+      "id": 1736873356406
+    },
+    {
+      "title": "Adorador Por Excelência",
+      "artist": "Nani Azevedo",
+      "url": "https://www.youtube.com/watch?v=JV2LHHD3cGw",
+      "image": "https://i.ytimg.com/vi/m8pHtUzvw3U/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/nani-azevedo/1273032/",
+      "chordsUrl": "https://www.cifraclub.com.br/nani-azevedo/adorador-por-exelencia/",
+      "categories": [
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Adoração, #Sacrifício, #Excelência",
+      "id": 1736874533299
+    },
+    {
+      "title": "Ainda que a figueira",
+      "artist": "Fernandinho",
+      "url": "https://www.youtube.com/watch?v=hFwNSQVi0q0",
+      "image": "https://i.ytimg.com/vi/1DzK7Wm3IcE/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/fernandinho/1496848/",
+      "chordsUrl": "https://www.cifraclub.com.br/fernandinho/ainda-que-figueira-/",
+      "categories": [
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Alegria, #Confiança, #Adversidade",
+      "id": 1736963246304
+    },
+    {
+      "title": "Alfa e ômega",
+      "artist": "Marine Friesen",
+      "url": "https://www.youtube.com/watch?v=hCVRYamLhHk",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0hH0DQni7ynnqfFuFZWqo7D4IZ4jb5qvJWg&s",
+      "lyricsUrl": "https://www.letras.mus.br/marine-friesen/alfa-e-omega/",
+      "chordsUrl": "https://www.cifraclub.com.br/marine-friesen/alfa-e-omega/",
+      "categories": [
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Criador, #Exaltação, #Dependência",
+      "id": 1736964132787
+    },
+    {
+      "title": "Alto Preço",
+      "artist": "Asaph Borba",
+      "url": "https://www.youtube.com/watch?v=4MFsMX0Hf-g",
+      "image": "https://i.ytimg.com/vi/4MFsMX0Hf-g/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/asaph-borba/44287/",
+      "chordsUrl": "https://www.cifraclub.com.br/asaph-borba/alto-preco/",
+      "categories": [
+        "Dízimos e Ofertas",
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Scrifício, #Amor, #Comunhão",
+      "id": 1737116861114
+    },
+    {
+      "title": "Águas Purificadoras",
+      "artist": "Diante do Trono",
+      "url": "https://www.youtube.com/watch?v=7iMjMUUiG2I",
+      "image": "https://i.ytimg.com/vi/7iMjMUUiG2I/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/diante-do-trono/80790/",
+      "chordsUrl": "https://www.cifraclub.com.br/diante-do-trono/aguas-purificadoras/",
+      "categories": [
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Purificação, #Transformação, #Cura",
+      "id": 1737117179533
+    },
+    {
+      "title": "Te Louvarei (Perto Quero Estar)",
+      "artist": "Toque no Altar",
+      "url": "https://www.youtube.com/watch?v=s6871xx3LBk",
+      "image": "https://i.ytimg.com/vi/PvysT9l7qhU/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/toque-no-altar/1300535/",
+      "chordsUrl": "https://www.cifraclub.com.br/toque-no-altar/te-louvarei-perto-quero-estar/",
+      "categories": [
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Louvor, #Adoração, #Exclusividade",
+      "id": 1737117543429
+    },
+    {
+      "title": "Sonda-me, Usa-me",
+      "artist": "Aline Barros",
+      "url": "https://www.youtube.com/watch?v=1McZiORjlzg",
+      "image": "https://i.ytimg.com/vi/1McZiORjlzg/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/aline-barros/1131959/",
+      "chordsUrl": "https://www.cifraclub.com.br/aline-barros/sonda-me-usa-me/",
+      "categories": [
+        "Louvor e Adoração",
+        "Dízimos e Ofertas"
+      ],
+      "keywords": "#Entrega, #Transformação, #Declaração",
+      "id": 1737117875874
+    },
+    {
+      "title": "Amigo de Deus",
+      "artist": "Adhemar de Campos",
+      "url": "https://www.youtube.com/watch?v=xFZmCEVTJQ8",
+      "image": "https://i.ytimg.com/vi/tLO8Sqkccj4/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/adhemar-de-campos/205375/",
+      "chordsUrl": "https://www.cifraclub.com.br/adhemar-de-campos/amigo-de-deus/",
+      "categories": [
+        "Louvor e Adoração",
+        "Dinâmica"
+      ],
+      "keywords": "#Comunhão, #Intimidade, #Adoração",
+      "id": 1737118086090
+    },
+    {
+      "title": "Rendido Estou",
+      "artist": "Fernandinho (Part. Aline Barros)",
+      "url": "https://www.youtube.com/watch?v=AlsUsI8eWmw",
+      "image": "https://i.ytimg.com/vi/xBvTB0MhAD0/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/fernandinho/1846030/#album:rendido-estou-part-aline-barros-e-bruna-karla-2015",
+      "chordsUrl": "https://www.cifraclub.com.br/fernandinho/rendido-estou/",
+      "categories": [
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Entrega, #Renuncia, #Intimidade",
+      "id": 1737118407678
+    },
+    {
+      "title": "Canção do Apocalipse",
+      "artist": "Diante do Trono",
+      "url": "https://www.youtube.com/watch?v=5-UHfUMarQk",
+      "image": "https://i.ytimg.com/vi/5j0arvaKdqk/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/diante-do-trono/1708842/",
+      "chordsUrl": "https://www.cifraclub.com.br/diante-do-trono/cancao-do-apocalipse/",
+      "categories": [
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Santidade, #Apocalipse, #Exaltação",
+      "id": 1737118819515
+    },
+    {
+      "title": "Invocamos",
+      "artist": "Ministério Avivah",
+      "url": "https://www.youtube.com/watch?v=uMWXs1sCGUI",
+      "image": "https://i.ytimg.com/vi/uMWXs1sCGUI/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/ministerio-avivah/invocamos/",
+      "chordsUrl": "https://www.cifraclub.com.br/ministerio-avivah/invocamos/",
+      "categories": [
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Clamor, #Presença, #Avivamento",
+      "id": 1737775067695
+    },
+    {
+      "title": "Teu Reino",
+      "artist": "Ministério Cristo Vivo",
+      "url": "https://www.youtube.com/watch?v=lMhEFpHzRsY",
+      "image": "https://i.ytimg.com/vi/lMhEFpHzRsY/mqdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/ministerio-cristo-vivo/1950960/",
+      "chordsUrl": "https://www.cifraclub.com.br/ministerio-cristo-vivo/teu-reino/",
+      "categories": [
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Entrega, #Reino, #Adoração",
+      "id": 1737775281058
+    },
+    {
+      "title": "Rei do Meu Coração",
+      "artist": "Nívea Soares",
+      "url": "https://www.youtube.com/watch?v=C8VRIiL4L4Q",
+      "image": "https://i.ytimg.com/vi/C8VRIiL4L4Q/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/nivea-soares/rei-do-meu-coracao/",
+      "chordsUrl": "https://www.cifraclub.com.br/nivea-soares/rei-do-meu-coracao/",
+      "categories": [
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Bondade, #Entrega, #Soberania, #Amor",
+      "id": 1737775503071
+    },
+    {
+      "title": "Bondade de Deus",
+      "artist": "Isaías Saad",
+      "url": "https://www.youtube.com/watch?v=mZ9yZYo9Mmk",
+      "image": "https://i.ytimg.com/vi/mZ9yZYo9Mmk/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/isaias-saad/bondade-de-deus/",
+      "chordsUrl": "https://www.cifraclub.com.br/isaias-saad/bondade-de-deus/",
+      "categories": [
+        "Louvor e Adoração",
+        "Dízimos e Ofertas"
+      ],
+      "keywords": "#Bondade, #Gratidão, #Misericórdia, #Fidelidade",
+      "id": 1737775671131
+    },
+    {
+      "title": "Exultação",
+      "artist": "Cantor Cristão Nº 15",
+      "url": "https://www.youtube.com/watch?v=6SnO6IXaf1Q",
+      "image": "https://i.ytimg.com/vi/5--tJAyKB8E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDpKWEbDrmxeTYnGdaWvWiJVOlGEw",
+      "lyricsUrl": "https://www.letras.mus.br/cantor-cristao/623791/",
+      "chordsUrl": "https://www.cifraclub.com.br/cantor-cristao/15-exultacao/htjpsg.html",
+      "categories": [
+        "Louvor e Adoração",
+        "Dízimos e Ofertas"
+      ],
+      "keywords": "#CantorCristão, #Louvor, #Adoração, #Redenção",
+      "id": 1737775912483
+    },
+    {
+      "title": "Pra Sempre",
+      "artist": "Ministério Avivah",
+      "url": "https://www.youtube.com/watch?v=ishM2o8LW94",
+      "image": "https://i.ytimg.com/vi/ishM2o8LW94/maxresdefault.jpg",
+      "lyricsUrl": "https://www.letras.mus.br/ministerio-avivah/pra-sempre/",
+      "chordsUrl": "https://www.cifraclub.com.br/ministerio-avivah/pra-sempre-forever/",
+      "categories": [
+        "Louvor e Adoração"
+      ],
+      "keywords": "#Eternidade, #Ressureição, #Amor",
+      "id": 1737776162547
+    },
+    {
+      "title": "Ao Olhar pra Cruz",
+      "artist": "Adoradores Novo Tempo",
+      "url": "https://youtu.be/m5p1kMRwIcw?si=h4O0oqA8e3Lc7Yeq",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUNkw-dpTt1DMSznYvacnTJXPErDGpUjffBYUVZw9xFXdbT7IP4-3uGc&s=10",
+      "lyricsUrl": "https://www.letras.mus.br/adoradores/ao-olhar-pra-cruz/",
+      "chordsUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cifraclub.com.br/adoradores/ao-olhar-pra-cruz/&ved=2ahUKEwiQrI_ZrZyLAxWTALkGHSI6AYMQjjh6BAgoEAE&usg=AOvVaw3Ysk6yA_a3npigC90zPxgx",
+      "categories": [
+        "Louvor e Adoração",
+        "Outras"
+      ],
+      "keywords": "#Sacrifício, #Amor, #Redenção",
+      "id": 1738202890783
+    },
+    {
+      "title": "Abraça-me",
+      "artist": "André Valadão",
+      "url": "https://youtu.be/6PWUbDhHfqs?si=GWdtKYgvu8_nFyyE",
+      "image": "https://www.google.com/imgres?q=abra%C3%A7a%20me%20andre%20valadao&imgurl=https%3A%2F%2Fslidegospel.com.br%2Fenvios%2F%2F86d20feaaf1e5a548f8a2185a3ce47c783ec12f2%2Fview%2Fsg-0.jpg&imgrefurl=https%3A%2F%2Fslidegospel.com.br%2Fslide%2F2345%2Fabraca-me-andre-valadao&docid=FNXr4H9nOS-4fM&tbnid=xaEQuGY6eCbKBM&vet=12ahUKEwiLisjyyJ6LAxW8t5UCHeJbOOkQM3oECE0QAA..i&w=600&h=450&hcb=2&ved=2ahUKEwiLisjyyJ6LAxW8t5UCHeJbOOkQM3oECE0QAA",
+      "lyricsUrl": "https://www.letras.mus.br/andre-valadao/1413147/",
+      "chordsUrl": "https://www.cifraclub.com.br/andre-valadao/abraca-me/",
+      "categories": [
+        "Louvor e Adoração"
+      ],
+      "keywords": "Adoração",
+      "id": 1738278805710
+    },
+    {
+      "title": "Ressuscita-me",
+      "artist": "Aline Barros",
+      "url": "https://www.youtube.com/watch?v=dc6oADkbQSw",
+      "image": "data:image/jpeg;base64,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",
+      "lyricsUrl": "https://www.letras.mus.br/aline-barros/1819226/",
+      "chordsUrl": "https://www.cifraclub.com.br/aline-barros/ressuscita-me/",
+      "categories": [
+        "Louvor e Adoração"
+      ],
+      "keywords": "Milagre",
+      "id": 1738278960529
+    }
+  ],
+  "integrantes": [
+    {
+      "id": 1737768328129,
+      "nome": "Semaías Ribas",
+      "avatar": "🧔🏽",
+      "genero": "masculino",
+      "posicoes": [
+        "vocalista",
+        "violonista",
+        "sonoplasta",
+        "multimidia"
+      ]
+    },
+    {
+      "id": 1737773528653,
+      "nome": "Raphael Costa",
+      "avatar": "🧔🏽‍♂️",
+      "genero": "masculino",
+      "posicoes": [
+        "violonista",
+        "tecladista",
+        "baterista"
+      ]
+    },
+    {
+      "id": 1737773562693,
+      "nome": "Andrea Dorneles",
+      "avatar": "👩🏻",
+      "genero": "feminino",
+      "posicoes": [
+        "vocalista"
+      ]
+    },
+    {
+      "id": 1737773644822,
+      "nome": "Felipe",
+      "avatar": "👨🏻",
+      "genero": "masculino",
+      "posicoes": [
+        "baixista",
+        "violonista",
+        "tecladista",
+        "sonoplasta",
+        "multimidia"
+      ]
+    },
+    {
+      "id": 1737773756482,
+      "nome": "Júlia",
+      "avatar": "👩🏻",
+      "genero": "feminino",
+      "posicoes": [
+        "vocalista"
+      ]
+    },
+    {
+      "id": 1737773821450,
+      "nome": "Mara Dorneles",
+      "avatar": "👩🏽‍🦱",
+      "genero": "feminino",
+      "posicoes": [
+        "vocalista"
+      ]
+    },
+    {
+      "id": 1737773929277,
+      "nome": "Letícia",
+      "avatar": "👧🏻",
+      "genero": "feminino",
+      "posicoes": [
+        "vocalista"
+      ]
+    },
+    {
+      "id": 1737774003278,
+      "nome": "Neto",
+      "avatar": "🧑🏾‍🦱",
+      "genero": "masculino",
+      "posicoes": [
+        "baterista",
+        "violonista",
+        "baixista"
+      ]
+    },
+    {
+      "id": 1737774177358,
+      "nome": "Nívio Batista",
+      "avatar": "🧔🏻‍♂️",
+      "genero": "masculino",
+      "posicoes": [
+        "violonista",
+        "guitarrista",
+        "baixista"
+      ]
+    },
+    {
+      "id": 1737774305446,
+      "nome": "Thiago",
+      "avatar": "🧔🏾‍♂️",
+      "genero": "masculino",
+      "posicoes": [
+        "guitarrista",
+        "sonoplasta",
+        "multimidia",
+        "violonista",
+        "baixista",
+        "baterista"
+      ]
+    },
+    {
+      "id": 1737774337486,
+      "nome": "Uriel",
+      "avatar": "👨🏻‍🦱",
+      "genero": "masculino",
+      "posicoes": [
+        "baterista"
+      ]
+    }
+  ],
+  "escalas": [
+    {
+      "id": 1737774503285,
+      "mes": 1,
+      "ano": 2025,
+      "dias": [
+        "2025-01-26T03:00:00.000Z",
+        "2025-01-29T03:00:00.000Z"
+      ],
+      "equipe": {
+        "vocalistas": [
+          {
+            "integrante": {
+              "id": 1737768328129,
+              "nome": "Semaías Ribas",
+              "avatar": "🧔🏽",
+              "genero": "masculino",
+              "posicoes": [
+                "vocalista",
+                "violonista",
+                "sonoplasta",
+                "multimidia"
+              ]
+            },
+            "funcao": "auxiliador"
+          },
+          {
+            "integrante": {
+              "id": 1737773756482,
+              "nome": "Júlia",
+              "avatar": "👩🏻",
+              "genero": "feminino",
+              "posicoes": [
+                "vocalista"
+              ]
+            },
+            "funcao": "ministrante"
+          }
+        ],
+        "instrumental": [
+          {
+            "integrante": {
+              "id": 1737768328129,
+              "nome": "Semaías Ribas",
+              "avatar": "🧔🏽",
+              "genero": "masculino",
+              "posicoes": [
+                "vocalista",
+                "violonista",
+                "sonoplasta",
+                "multimidia"
+              ]
+            },
+            "funcoes": [
+              "violonista"
+            ]
+          },
+          {
+            "integrante": {
+              "id": 1737774003278,
+              "nome": "Neto",
+              "avatar": "🧑🏾‍🦱",
+              "genero": "masculino",
+              "posicoes": [
+                "baterista",
+                "violonista",
+                "baixista"
+              ]
+            },
+            "funcoes": [
+              "baterista"
+            ]
+          },
+          {
+            "integrante": {
+              "id": 1737773528653,
+              "nome": "Raphael Costa",
+              "avatar": "🧔🏽‍♂️",
+              "genero": "masculino",
+              "posicoes": [
+                "violonista",
+                "tecladista",
+                "baterista"
+              ]
+            },
+            "funcoes": [
+              "tecladista"
+            ]
+          },
+          {
+            "integrante": {
+              "id": 1737773644822,
+              "nome": "Felipe",
+              "avatar": "👨🏻",
+              "genero": "masculino",
+              "posicoes": [
+                "baixista",
+                "violonista",
+                "tecladista",
+                "sonoplasta",
+                "multimidia"
+              ]
+            },
+            "funcoes": [
+              "baixista"
+            ]
+          }
+        ]
+      },
+      "status": "ativo"
+    }
+  ]
+}
